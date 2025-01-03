@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about blending hardware and softwar
 
 ### 🌐 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,c,java,html,css,php,dart,mathlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,c,java,html,css,php,dart,matlab)](https://skillicons.dev)
 
 
 ### 📱 Mobile Frameworks
