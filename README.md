@@ -25,39 +25,45 @@ Welcome to my GitHub profile! I'm passionate about blending hardware and softwar
 
 ### 🌐 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,c,java,html,css,php,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,c,java,html,css,php,dart,mathlab)](https://skillicons.dev)
 
 
 ### 📱 Mobile Frameworks
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,react)](https://skillicons.dev)
 
 ### 🖥️ Web Frameworks
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+[![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 
 ### 🎨 CSS Frameworks
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind)](https://skillicons.dev)
 
 ### 💾 Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 
 ### ☁️ Cloud Providers
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+[![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
 
 ### 🤖 Machine Learning
-![Sklearn](https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+[![My Skills](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev)
 
 ### 🛠️ Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
 ### ⚙️ Microcontroller Programming
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
+
+[![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev) 
 ![PIC Microcontrollers](https://img.shields.io/badge/PIC-000000?style=for-the-badge&logoColor=white)
 
 ### 🔍 Testing Tools
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 
 ---
 
