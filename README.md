@@ -66,18 +66,3 @@ Welcome to my GitHub profile! I'm passionate about blending hardware and softwar
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 
 ---
-
-## 🚀 What I'm Working On
-I'm always exploring new technologies and working on exciting projects in areas like:  
-- IoT & Embedded Systems 🌐  
-- Mobile App Development 📱  
-- Web Applications 💻  
-
-
----
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SupunNarangoda&layout=compact&theme=radical)  
-
----
