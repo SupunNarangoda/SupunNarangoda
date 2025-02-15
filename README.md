@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hello, I'm Supun!
 
-🎓 **Mechatronics Undergraduate** | 💻 **Part-time Software Engineering Student**  
+🎓 **Mechatronics Undergraduate** | 💻 **Software Engineering Graduate (Pending Results)**  
 Welcome to my GitHub profile! I'm passionate about blending hardware and software to build innovative solutions.
 
 ---
